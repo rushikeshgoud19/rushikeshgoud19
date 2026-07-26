@@ -171,10 +171,11 @@ scroll-scrubbed canvas frame animation, constellation skills map
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=rushikeshgoud19&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="stats"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshgoud19&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="languages"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rushikeshgoud19&theme=github_dark" alt="stats"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rushikeshgoud19&theme=github_dark" alt="most used languages"/>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshgoud19&theme=github-dark&hide_border=true" alt="streak"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshgoud19&theme=github-dark&hide_border=true" alt="streak"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rushikeshgoud19&theme=github_dark&utcOffset=5.5" alt="productive time"/>
 
 </div>
 
