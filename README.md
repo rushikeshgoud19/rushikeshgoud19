@@ -19,6 +19,10 @@ FastAPI and LLM orchestration, with a stubborn interest in making agents **verif
 that *prove* what they did instead of claiming it. Most of what I know came from things breaking in
 ways I didn't predict.
 
+A theme runs through the work: **one model asserting something is not evidence.** Mizune diffs its
+claims against ground-truth seals, Project Sovereign reaches decisions through multi-agent debate,
+and the trading framework keeps the agent that *wants* a trade separate from the one that approves it.
+
 ---
 
 ## 🧰 Languages & Tools
@@ -102,16 +106,34 @@ same `$0`-cost bug had been patched **five separate times**.
 
 ---
 
+### 🏛️ [Project Sovereign](https://github.com/rushikeshgoud19/IBM-Project) — an autonomous AI boardroom
+
+Multi-agent debate for supply-chain decisions on **IBM watsonx / Granite**. Specialist agents argue
+opposing positions and a decision emerges from the disagreement rather than from a single model's
+first answer — the same instinct behind Mizune's cross-model verification.
+
+`Python` `watsonx` `Granite` `multi-agent`
+
+### 📈 [Multi-Agent Trading Framework](https://github.com/rushikeshgoud19/Trading_bot)
+
+Analyst / research / risk agent teams debating trades, with a TUI, multi-provider LLM support and
+India-market coverage. Separating research from risk assessment into different agents means the
+agent that wants the trade isn't the one approving it.
+
+`Python` `multi-agent` `LLM routing` `TUI`
+
 ### 🚁 RescueWing — autonomous search-and-rescue UAV
 
 450 mm quadcopter (Pixhawk + Raspberry Pi 4) running **YOLOv8-nano** for real-time aerial survivor
 detection in flood scenarios. MAVLink waypoint navigation with a lawnmower search pattern, validated
 in ArduPilot SITL. Presented at **Makers Conclave 2026**.
 
-### 🧠 [Mind Universe](https://github.com/rushikeshgoud19/Mind-Universe-)
+### 🎨 Frontend, for the fun of it
 
-Full-stack Next.js platform with agent-based AI features and CI on Netlify →
-[minduni.netlify.app](https://minduni.netlify.app)
+[**Mind Universe**](https://github.com/rushikeshgoud19/Mind-Universe-) — cinematic scroll-driven 3D
+portfolio with an interactive Earth (Next.js · Three.js) → [minduni.netlify.app](https://minduni.netlify.app)
+· [**Black Hole Portfolio**](https://github.com/rushikeshgoud19/blackhole-portfolio.) —
+scroll-scrubbed canvas frame animation and a constellation skills map (Next.js · TS)
 
 ---
 
