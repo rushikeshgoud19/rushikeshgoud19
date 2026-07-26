@@ -5,7 +5,7 @@
 **AI / LLM Engineer** · Autonomous agent systems that verify their own work
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-minduni.netlify.app-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://minduni.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-goud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-goud-572007384)
 [![Email](https://img.shields.io/badge/Email-Reach_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikeshgoud19@gmail.com)
 
 <samp>CS @ BITS Pilani · Hyderabad, India · open to SDE / AI engineering roles</samp>
@@ -159,7 +159,7 @@ distributed systems, because a companion that goes silent at 3 AM is a bug you *
 <div align="center">
 <samp>
 
-📫 **rushikeshgoud19@gmail.com** · [Portfolio](https://minduni.netlify.app) · [LinkedIn](https://linkedin.com/in/rushikesh-goud)
+📫 **rushikeshgoud19@gmail.com** · [Portfolio](https://minduni.netlify.app) · [LinkedIn](https://linkedin.com/in/rushikesh-goud-572007384)
 
 </samp>
 </div>
